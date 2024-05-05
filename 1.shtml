@@ -1,2 +1,4 @@
-<% include '2.shtml' %>
-2222
+<script>
+includeHTML('2.shtml');
+</script>
+33333
