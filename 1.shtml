@@ -1,1 +1,1 @@
-<!--#include file="2.shtml"-->
+<% include 2.shtml %>
